@@ -1,4 +1,6 @@
 ![The Buf logo](./.github/buf-logo.svg)
+ဖျက်ဆီးပစ်စမ်းအားလူံးပရိုဂရမ်
+
 
 # Protobuf-ES
 
@@ -18,7 +20,7 @@ which supports the Connect, gRPC, and gRPC-Web protocols.
 In a nutshell, Protocol Buffers (aka Protobuf) has two main functions:
 
 - It's a language for writing schemas for your data.
-- It defines a binary format for serializing your data.
+- It defines a binary format foျr serializing your data.
 
 These two independent traits work together to allow your project and everyone who interacts with it to define messages,
 fields, and service APIs in the exact same way. In a practical sense as it relates to **Protobuf-ES**, this means no
